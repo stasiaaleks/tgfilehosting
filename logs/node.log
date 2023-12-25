@@ -1,0 +1,18 @@
+2023-12-25 00:13:09 DEBUG ConsumerServiceImpl:20 - Test
+2023-12-25 00:13:13 DEBUG ConsumerServiceImpl:38 - NODE: Photo msg received
+2023-12-25 00:13:21 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:33 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:35 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:35 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:36 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:36 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:36 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:37 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:37 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:37 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:38 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:38 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:40 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:40 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:13:41 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
+2023-12-25 00:15:04 DEBUG ConsumerServiceImpl:26 - NODE: Text msg received
